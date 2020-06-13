@@ -8,11 +8,11 @@ h1 {
 }
 
 h2 {
-  color: darkslategrey;
+  color: black;
 }
 
 body {
-  background-color: whitesmoke;
+  background-color: #e9ebee;
   height: 80vh;
 }
 
@@ -32,4 +32,15 @@ footer {
 
 .empty-div {
   height: 100px;
+}
+
+p {
+  font-style: italic;
+  color: black;
+}
+.card-text {
+  color: black;
+}
+.email {
+  color: black;
 }
